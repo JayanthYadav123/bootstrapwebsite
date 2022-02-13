@@ -167,7 +167,7 @@ Publish the website in the given URL.
 ~~~
 ## OUTPUT:
 ![OUTPUT](/images/j1.png)
-![OUTPUT](/images/j2.png)
+![OUTPUT](/images/j21.png)
 ![OUTPUT](/images/j3.png)
 
 
